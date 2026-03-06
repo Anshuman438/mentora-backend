@@ -1,0 +1,8 @@
+.gradle/
+build/
+.idea/
+*.class
+out/
+*.jar
+!../gradle/wrapper/gradle-wrapper.jar
+../src/main/resources/firebase-service-account.json
